@@ -1,0 +1,16 @@
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\bin\Debug\net5.0\FileClass.exe
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\bin\Debug\net5.0\FileClass.deps.json
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\bin\Debug\net5.0\FileClass.runtimeconfig.json
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\bin\Debug\net5.0\FileClass.runtimeconfig.dev.json
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\bin\Debug\net5.0\FileClass.dll
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\bin\Debug\net5.0\ref\FileClass.dll
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\bin\Debug\net5.0\FileClass.pdb
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\obj\Debug\net5.0\FileClass.csproj.AssemblyReference.cache
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\obj\Debug\net5.0\FileClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\obj\Debug\net5.0\FileClass.AssemblyInfoInputs.cache
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\obj\Debug\net5.0\FileClass.AssemblyInfo.cs
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\obj\Debug\net5.0\FileClass.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\obj\Debug\net5.0\FileClass.dll
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\obj\Debug\net5.0\ref\FileClass.dll
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\obj\Debug\net5.0\FileClass.pdb
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\FileClass\obj\Debug\net5.0\FileClass.genruntimeconfig.cache

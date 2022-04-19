@@ -1,0 +1,16 @@
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\bin\Debug\net5.0\HospitalApp.exe
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\bin\Debug\net5.0\HospitalApp.deps.json
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\bin\Debug\net5.0\HospitalApp.runtimeconfig.json
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\bin\Debug\net5.0\HospitalApp.runtimeconfig.dev.json
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\bin\Debug\net5.0\HospitalApp.dll
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\bin\Debug\net5.0\ref\HospitalApp.dll
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\bin\Debug\net5.0\HospitalApp.pdb
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\obj\Debug\net5.0\HospitalApp.csproj.AssemblyReference.cache
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\obj\Debug\net5.0\HospitalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\obj\Debug\net5.0\HospitalApp.AssemblyInfoInputs.cache
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\obj\Debug\net5.0\HospitalApp.AssemblyInfo.cs
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\obj\Debug\net5.0\HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\obj\Debug\net5.0\HospitalApp.dll
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\obj\Debug\net5.0\ref\HospitalApp.dll
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\obj\Debug\net5.0\HospitalApp.pdb
+C:\Users\Abdulrazaq Olanite O\Desktop\Personal\FileApp\HospitalApp\obj\Debug\net5.0\HospitalApp.genruntimeconfig.cache
